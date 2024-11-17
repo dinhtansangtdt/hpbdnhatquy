@@ -1,7 +1,7 @@
 // trigger to play music in the background with sweetalert
 window.addEventListener('load', () => {
     Swal.fire({
-        title: 'Thanh Thuận có muốn nghe một chút âm nhạc hông?',
+        title: 'Nhật Quy có muốn nghe một chút âm nhạc hông?',
         // text: "You won't be able to revert this!",
         icon: 'warning',
         showCancelButton: true,

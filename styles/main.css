@@ -30,19 +30,24 @@ body {
 
 .one {
   font-size: 4.5rem;
+  color: hsl(323, 85%, 52%);
+
 }
 
 .two {
   font-size: 1.2rem;
   font-weight: lighter;
+  color: hsl(323, 85%, 52%);
 }
 
 .three {
   font-size: 3rem;
+  color: hsl(323, 85%, 52%);
 }
 
 .four .text-box {
   border: 3px solid #aaa;
+  color: hsl(323, 85%, 52%);
   border-radius: 5px;
   margin: 0 auto;
   padding: 10px;
